@@ -1,0 +1,21 @@
+{
+    "legacy_addon_id": "",
+    "title": "[Xen-Soluce] Invite System",
+    "description": "This add-on allows you to generate invitation codes to join your forum and more.",
+    "version_id": 2030200,
+    "version_string": "2.3.2",
+    "dev": "Xen-Soluce",
+    "dev_url": "https://xen-soluce.com/",
+    "faq_url": "",
+    "support_url": "https://xen-soluce.com/forums/supports.67/",
+    "extra_urls": {
+        "Suggestions": "https://xen-soluce.com/forums/suggestions.68/"
+    },
+    "require": {
+        "XF": [
+            2010031,
+            "XenForo 2.1.0 Beta 1+"
+        ]
+    },
+    "icon": "fa-freebsd.png"
+}
